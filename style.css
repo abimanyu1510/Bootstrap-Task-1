@@ -1,0 +1,74 @@
+
+.container{
+    margin:40px auto ;
+    height: 90vh;
+    width: 90vw;
+    background-color: rgb(181, 185, 185);
+    border: 2px solid black;
+}
+
+
+h1{
+    text-align: center;
+}
+p{
+ font-size: x-large; 
+ text-align: center;  
+}
+
+
+.container1{
+    height:60vh ;
+    width: 70vw;
+    border:2px solid black ;
+    margin-left: 10%;
+}
+
+.image{
+  float: left;
+    margin:30px 3px 50px 50px; 
+    height: 150px;
+    width: 150px;
+    
+
+    
+}
+
+.float{
+  padding: 20px 20px;
+  float: right;
+margin-right:20% ;
+} 
+
+form.form-example {
+  display: table;
+}
+
+div.form-example {
+  display: table-row;
+}
+
+
+label,
+input {
+  display: table-cell;
+  margin-bottom: 10px;
+ 
+}
+
+label {
+  padding-right: 0px;
+}
+ 
+ span.form{
+  padding: 10px;
+
+} 
+
+
+
+
+
+
+
+
